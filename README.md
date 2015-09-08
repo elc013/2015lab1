@@ -1,4 +1,5 @@
 # 2015lab1
+# Elizabeth Cheever
 
 [![Binder](http://mybinder.org/badge.svg)](http://mybinder.org/repo/cs109/2015lab1)
 
